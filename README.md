@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmaesfo0/RobloxScripts/main/psx-jmes.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/justinV0/RobloxScripts/main/psx-justin.lua"))()
